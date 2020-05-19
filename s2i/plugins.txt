@@ -1,5 +1,3 @@
 ssh-slaves
 artifactory
 configuration-as-code
-configuration-as-code-support
-configuration-as-code-groovy
